@@ -1,2 +1,2 @@
-# webAL
+# WebAL
  JavaScript Animation Library
